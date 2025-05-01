@@ -278,23 +278,9 @@ http://202.147.193.244/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png" group-title="Vision+ Overseas",Zoo Moo (V+)
 http://202.147.193.244/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png" group-title="Vision+ Overseas",Al Quran (V+)
-http://202.147.193.244/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-m.png" group-title="Vision+ Overseas",EWTN (V+)
 http://202.147.193.244/live/eds/EWTN/sa_dash/EWTN.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-m.png" group-title="Vision+ Overseas",Life (V+)
 http://202.147.193.244/live/eds/Life/sa_dash/Life.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png" group-title="Vision+ Overseas",Muslim TV (V+)
-http://202.147.193.244/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-m.png" group-title="Vision+ Overseas",Reformed 21  (V+)
-http://202.147.193.244/live/eds/Reformed21/sa_dash/Reformed21.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-m.png" group-title="Vision+ Overseas",Tawaf TV (V+)
-http://202.147.193.244/live/eds/TawafTV/sa_dash/TawafTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png" group-title="Vision+ Overseas",TV9 (V+)
-http://202.147.193.244/live/eds/TV9/sa_dash/TV9.mpdddddddddddddddddddd
