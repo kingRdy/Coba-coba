@@ -8,7 +8,7 @@ http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="Vision+ Overseas",MNCTV (V+)
-#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 http://202.147.193.244/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="Vision+ Overseas",Inews (V+)
