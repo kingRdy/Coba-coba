@@ -288,3 +288,10 @@ http://202.147.193.244/live/eds/TawafTV/sa_dash/TawafTV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png" group-title="Vision+ Overseas",TV9 (V+)
 http://202.147.193.244/live/eds/TV9/sa_dash/TV9.mpd
+
+#EXTINF:-1 tvg-logo=".png" group-title="Live",TribunNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746313733/ei/pU0WaP2hAoDT3LUPuLbLyAk/ip/180.251.155.62/id/qKQlTkZynl8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAYbsOSGa64glfSfZH0BDj7FJh-fbQbiM9e7LJMNIXJwMv6LVSSVKMf7uxN0Nz3hv5ecSw/spc/wk1kZtJ0I1l4rRmzyuY6IFFirKy-BkliVT3TQutW9581UDbdIgwKMHzpRsEDHzWluw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgd7oWBIIiT3yBqUUp6tlt0W7zeEPmAV7yzNA9giEnhRoCICHRKA0ujbP_EpS_Ejsoz3OroGb-iQBF9HaPU6pO5p2p/file/index.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="DensTv Movies",Movies
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff95fad2704c18502d962288fafda7c387c0c5f820f5fb3f443a4aeb35f408c6ea4b91f4a924d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905d349147eae4e9f5498753502105e2b0b46bb1b16f1286929e1c4e/8/848x480_1686360/index.m3u8
+
