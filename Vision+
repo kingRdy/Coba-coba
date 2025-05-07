@@ -315,3 +315,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1 tvg-logo=".png" group-title="DensTv Live",Dens Knowledge
 https://group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:-1 tvg-logo=".png" grup-title="Test",Fox Sports 2 HD
+https://v18.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=h2ThjyZL-J_5Gx4lP-ZYUQ&expires=1746635507&user_id=Q2N5VEtUMTRUS2JKVGk1eGVIM24wbUhjOWxCNFVNVmtqeDRrbGVIcQ==
