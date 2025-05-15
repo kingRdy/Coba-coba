@@ -333,9 +333,8 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="Live Event", BWF
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="Live Event", BWF Event Court 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18249.m3u8
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VBDjEKKA4QeNxfsgSFHgdWVrZyw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/toyota-thailand-open-2025-round-of-16-court-1-0af372.jpg" , Kunlavut Vitidsarn (THA) vs Ng Ka Long Angus (HKG) - Men's Singles Round of 16 | Toyota Thailand Open 2025 | 09:00 15 Mei 2025
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18249
 
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="Live Event", BWF Event Court 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
