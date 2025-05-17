@@ -22,6 +22,10 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="TV NASIONAL",MNC TV VIP
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/MnC-TV.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="TV NASIONAL",RCTI HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
@@ -36,6 +40,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="TV NASIONAL",RCTI FHD VIP
+http://opplex.tv:8080/live/mother/mother/351023.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="TV NASIONAL",GTV
@@ -52,6 +59,12 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="TV NASIONAL",GTV HD VIP
+https://wahyu1ptv.pages.dev/gTv-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="TV NASIONAL",GTV FHD VIP
+http://opplex.tv:8080/live/mother/mother/350954.ts
+
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="iNews R+ - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -60,6 +73,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews SD VIP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/iNewsTV-HD.mpd
+
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews FHD VIP
+http://opplex.tv:8080/live/mother/mother/350973.ts
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqu3uVWEYZpgNsRFjsIns7W4IJoco3hqCoJR6PhJXA4wBlKPukSG4a1qPJblt0aELWfuvhwGZWcIZMhxltraI4C2onG9vRiJWwW4i8a04apMc-MfpIQ4ptrOhcAQkXyVPKHeylwbVZAKuS3JxtoJugGvp7Fpr8yL-goijBHOUpPA2BXnztqR4kg961UI9o/s700/INEWS.png" group-title="TV NASIONAL",iNEWS INDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -81,6 +101,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mp
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
 https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="TV NASIONAL",Sindonews (V+)
+http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+
 #EXTINF:-1 tvg-id="SCTV SD - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="TV NASIONAL",SCTV SD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -91,6 +114,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 tvg-id="SCTV HD- [Saluran 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="TV NASIONAL",SCTV FHD VIP
+http://opplex.tv:8080/live/mother/mother/351030.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -158,6 +184,14 @@ http://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="TV NASIONAL", MOJI TV HQ VIP 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="TV NASIONAL", MOJI TV FHD VIP
+http://opplex.tv:8080/live/mother/mother/350997.ts
+
 
 #EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/J72JMfZ/net.png" group-title="TV NASIONAL" , NET TV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -298,6 +332,10 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="TV NASIONAL",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/QehUKzY.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
 
 
 <================ Indonesia Channels ================>
@@ -333,52 +371,60 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 <============================ Live Event ========================>
 
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNmv__U_qjSfq669cdeEkRXDBwLAmQamTfQ&s", Badminton Live Event
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/-TBXU3hlSIcXpy2cVbyD8Q/Fv2lucGIbhPi2caWYvF5Lg/1747493404358/live/may6/chunklist.m3u8
+https://live-xlvb.nsnd.live/UDfkDjPFDXS98TEQNl7KEA/ad962176acd070100f306c790419005d/1747493404/live/_definst_/stream_1_1bda7@myHD/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="Live Event", BRI LIGA 1
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
 #EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="Live Event", BWF
 https://linear-627.frequency.stream/dist/distrotv/627/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/VBDjEKKA4QeNxfsgSFHgdWVrZyw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/toyota-thailand-open-2025-round-of-16-court-1-0af372.jpg" , Kunlavut Vitidsarn (THA) vs Ng Ka Long Angus (HKG) - Men's Singles Round of 16 | Toyota Thailand Open 2025 | 09:00 15 Mei 2025
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18249
 
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="Live Event", BWF Event Court 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18250.m3u8
-
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="Live Event", BWF Event Court 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18252.m3u8
-
-#EXTINF:-1 group-logo="https://png.pngtree.com/png-clipart/20221121/ourmid/pngtree-live-stream-logo-streaming-icon-broadcasting-button-png-image_6473012.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/800px-2012_BWF_logo.svg.png" group-title="Live Event", BWF Event Court 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18253.m3u8
 
 
 <============================ Sports ========================>
 
+#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="Sports" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-#EXTINF:-1 tvg-id="SoccerChannel.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars Auto
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="Sports",Sportstars 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="Sports",Sportstars 1 HD RCTI+🇮🇩
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="Sports",Sportstars V+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="Sports", SportStars 1
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2 cdg 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2 V+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="Sports", SportStars 2
 https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
@@ -386,10 +432,11 @@ https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dIcTZj3.png",Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://lapakking.com/play/sportstars/ss3.php?id=ss3&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=113
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+#https://lapakking.com/play/sportstars/ss3.php?id=ss3&type=drm
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports", SPORTSTARS 4 HD🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
