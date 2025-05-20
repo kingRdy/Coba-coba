@@ -296,6 +296,10 @@ https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch107.m3u8
 
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://i.ibb.co.com/bR4XfVJ/20241225-180426.jpg",VTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://elitestreamid.xyz/scripts/oxygen.php?id=vtv
+
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg" group-title="NASIONAL",Nusantara
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1728,6 +1732,29 @@ https://WahyuIPTV.short.gy/ETVBioskop3.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="Premium Movies", ETV Bioskop 4
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
+
+#EXTINF:-1 tvg-id="US18000163F" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="Premium Movies",MIRAMAX
+https://d3d9ae4yefa76z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-by82ttgbu16zf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="Premium Movies",Movie Sphere
+https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
+
+#EXTINF:0 group-title="Premium Movies" tvg-id="Moviesphere.uk" tvg-logo="https://i.ibb.co.com/T03zyxp/20241225-225538.jpg",Moviesphere
+https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:0 group-title="Premium Movies" tvg-id="Outersphere.uk" tvg-logo="https://i.ibb.co.com/tPxKFPM/20241225-225554.jpg",Outersphere
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" tvg-logo="https://i.ibb.co.com/PwgfNwZ/20241225-230829.jpg", Star Movies 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
+https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="USBB2900001P9" tvg-logo="https://seeklogo.com/images/C/cj-enm-logo-EE17CA9B0F-seeklogo.com.png" group-title="Premium Movies",K-Stories by CJ
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HiYAH.us" group-title="Premium Movies" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png﻿-image_673701.jpg" tvg-logo="https://i.imgur.com/sOYAnTB.png",Hi-YAH! 
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-logo="",5. RTB ANEKA
 #EXTVLCOPT:network-caching=1000
