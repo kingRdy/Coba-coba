@@ -1409,24 +1409,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
 <======================== Premium Movies ==========================>
 
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png" group-title="HBO GROUP GO",HBO (Go)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
-
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png" group-title="HBO GROUP GO",HBO Family (Go)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
-
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png" group-title="HBO GROUP GO",HBO Hits (Go)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-
-#EXTINF:-1 group-title="HBO GROUP GO" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png",HBO Signature (Go)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-Transcorp",Cinemax (TRANSCORP)
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -1440,7 +1422,15 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Premium Movies",HBO
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="HBO.id" tvg-logo="https://urfan.id/logo/hbo.png",HBO
+#EXTINF:-1 group-title="Premium Movies" tvg-id="hboasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="HBO.id" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBO.png",HBO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://content.qtv.my.id:1234/stream/astro/hbo/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
@@ -1455,7 +1445,15 @@ http://content.qtv.my.id:1234/stream/astro/hbo/master.m3u8?u=admin&p=557e305a513
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Premium Movies",HBO Hits
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="HBOHits.id" tvg-logo="https://urfan.id/logo/hbohits.png",HBO Hits
+#EXTINF:-1 group-title="Premium Movies" tvg-id="hbohitsasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0", HBO Hits
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="HBOHits.id" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOhits.png",HBO Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://content.qtv.my.id:1234/stream/astro/hbohits/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
@@ -1470,7 +1468,15 @@ http://content.qtv.my.id:1234/stream/astro/hbohits/master.m3u8?u=admin&p=557e305
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Premium Movies",HBO Family 
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="HBOFamily.id" tvg-logo="https://urfan.id/logo/hbofam.png",HBO Family
+#EXTINF:-1 group-title="Premium Movies" tvg-id="hbofamilyasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0",HBO family
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="HBOFamily.id" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOFam.png",HBO Family
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://content.qtv.my.id:1234/stream/astro/hbofamily/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
@@ -1485,7 +1491,15 @@ http://content.qtv.my.id:1234/stream/astro/hbofamily/master.m3u8?u=admin&p=557e3
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="HBOSignature.id" tvg-logo="https://urfan.id/logo/hbosign.png",HBO Signature
+#EXTINF:-1 group-title="Premium Movies" tvg-id="hbosignatureasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0",HBO Signature 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="HBOSignature.id" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/HBOsig.png",HBO Signature
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://content.qtv.my.id:1234/stream/astro/hbosignature/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
@@ -1499,6 +1513,14 @@ http://content.qtv.my.id:1234/stream/astro/hbosignature/master.m3u8?u=admin&p=55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Premium Movies",Cinemax
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/zsbacg5t7lorej9vx5lsa/Cinemax-hometv.png?rlkey=pe3s86fk2p7k4q9w0eoij7jzl&dl=0",CINEMAX 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="Premium Movies",AXN
@@ -1771,6 +1793,17 @@ https://WahyuIPTV.short.gy/ETVBioskop3.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="Premium Movies", ETV Bioskop 4
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
+
+#EXTVLCOPT:http-user-agent=adminplayidtv
+http://45.144.165.187:8080/playidtv/12345/18833
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FW MOVIE
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI1IDEyOjEyOjQ2IFBNJmhhc2hfdmFsdWU9N3gvMjA4RWNONFBZb3BrbDQvYUFLQT09JnZhbGlkbWludXRlcz0y
+
+#EXTVLCOPT:http-user-agent=adminplayidtv
+#http://45.144.165.187:8080/playidtv/12345/11051
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FW SOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI1IDg6Mzg6NDMgQU0maGFzaF92YWx1ZT1VaG0yclIvdkt4eUwzU0I2MkxLTEtnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTVLCOPT:http-user-agent=adminplayidtv
 
 #EXTINF:-1 tvg-id="US18000163F" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="Premium Movies",MIRAMAX
 https://d3d9ae4yefa76z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-by82ttgbu16zf/playlist.m3u8
