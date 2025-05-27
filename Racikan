@@ -420,6 +420,29 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 https://hotlivezz179026907.akainu.xyz/-TBXU3hlSIcXpy2cVbyD8Q/Fv2lucGIbhPi2caWYvF5Lg/1747493404358/live/may6/chunklist.m3u8
 https://live-xlvb.nsnd.live/UDfkDjPFDXS98TEQNl7KEA/ad962176acd070100f306c790419005d/1747493404/live/_definst_/stream_1_1bda7@myHD/chunklist.m3u8
 
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", Badminton Live Event 2
+https://lapakking.com/play/ikowais/index.m3u8?id=live-streaming-badminton/92
+
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", Badminton Live Event 3
+https://lapakking.com/play/ikowais/index.m3u8?id=live-streaming-badminton/93
+
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", Badminton Live Event 4
+https://lapakking.com/play/ikowais/index.m3u8?id=live-streaming-badminton/94
+
+
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", KFF Singapore Badminton Open 2025
+#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910949843577061_AiHD.m3u8?txSecret=75ad3651b64b3e8d8180173183c572ea&txTime=68365200
+https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950044897061_AiHD.m3u8?txSecret=722c008a24dd8236f68b230ac89f41e8&txTime=68365200
+
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", KFF Singapore Badminton Open 2025
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/1pdrj6pQ5GCb4DbwopttUw/Fv2lucGIbhPi2caWYvF5Lg/1748344808511/live/may26/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="Live Event", BRI LIGA 1
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
@@ -1384,7 +1407,14 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
+#EXTINF:-1 group-title="TV Luar Negeri" tvg-id="" tvg-logo="",5. RTB ANEKA
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+
+
 <=================== Entertainment & Lifestyle =============================>
+
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1772,9 +1802,12 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/IMC.png" group-title="Premium Movies",008. IMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/IMC.png" group-title="Premium Movies",008. IMC SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/IMC-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="Premium Movies",ID: IMC HD
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/264769
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="Premium Movies",Flik
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -1940,6 +1973,15 @@ https://WahyuIPTV.short.gy/ETVBioskop3.ts
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
 
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="Premium Movies", Pixl TV Movie Channel
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Premium Movies",Flicks of Fury
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com8
+
+#EXTINF:-1 tvg-id="5ff8c708653d080007361b14" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Premium Movies",Paramount Plus Picks
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
 #EXTVLCOPT:http-user-agent=adminplayidtv
 http://45.144.165.187:8080/playidtv/12345/18833
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg",FW MOVIE
@@ -1974,11 +2016,13 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="HiYAH.us" group-title="Premium Movies" group-logo="https://png.pngtree.com/png-vector/20190130/ourmid/pngtree-technology-earth-dot-line-triangle-connection-commercial-elements-techscience-fictiontechnological-sensecool-png﻿-image_673701.jpg" tvg-logo="https://i.imgur.com/sOYAnTB.png",Hi-YAH! 
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-logo="",5. RTB ANEKA
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro IQIYI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/9bfeddaab696001c507a5f126595aaa2.png" group-title="Premium Movies",MY: Astro IQIYI
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306494
+
+
 
 <=============== Kids Channels =====================>
+
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids" tvg-id="Cartoon Network" , Cartoon Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2484,3 +2528,47 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="TVRI Daerah",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+
+
+<=================== Australia ===================>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/da082a35d86981edc3c171e4a4756bf5.png" group-title="Australia",AU: SBS
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/295039
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS Viceland" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/514e18cec177adff3881ee19f83812b3.png" group-title="Australia",AU: SBS Viceland
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/146812
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS World Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f4f1c70099d00a880f13a9ca5818f4ce.png" group-title="Australia",AU: SBS World Movies
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/186984
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/839851ed442f2eaf74ef20955b55ab5d.png" group-title="Australia",AU: SBS Food Network
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/144778
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC Australia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fdc77def32585225712391390909832e.png" group-title="Australia",AU: ABC Australia
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/157526
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC Kids NT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6862a171918ae41555c180cae7b290c3.png" group-title="Australia",AU: ABC Kids NT
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/152369
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC Me NT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/fe2dae1c26dc501dc1e2dd3e186f7470.png" group-title="Australia",AU: ABC Me NT
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/186985
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e869d37f03deb7bbbd0346dfeb62ab7b.png" group-title="Australia",AU: ABC TV
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/173559
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC TV NSW" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: ABC TV NSW
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/301388
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC TV Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d54cc07e45e6147851f02b6eaf4904a2.png" group-title="Australia",AU: ABC TV Plus
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/186983
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC TV QLD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: ABC TV QLD
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/301384
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC TV SA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: ABC TV SA
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/301385
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC TV VIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: ABC TV VIC
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/301386
