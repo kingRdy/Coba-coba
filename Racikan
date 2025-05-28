@@ -856,6 +856,10 @@ https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="Sports", MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MUTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="Sports", AstroArena 1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 
@@ -1204,6 +1208,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="Malaysia", ASTRO OASIS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20OASIS.m3u8
+
+#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="Malaysia", ASTRO AURA
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="Malaysia", ASTRO SHOWCASE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="Malaysia", ASTRO HUA HEE DAI
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -1272,6 +1288,22 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 #EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="Malaysia", BERNAMA
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="Malaysia", WWE NETWORK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbjade.m3u8
 
 
 
@@ -2054,6 +2086,166 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306494
 
 
 
+<================ DOUYU_21 Cineplex =====================>
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",动作
+https://live.metshop.top/huya/11602041
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",探险
+https://live.metshop.top/huya/11352913
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",贺岁电影
+https://live.metshop.top/huya/11601986
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",金庸武侠电影 ①
+https://live.metshop.top/huya/11342427
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",金庸武侠电影 ②
+https://live.metshop.top/huya/11342435
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",喜剧
+https://live.metshop.top/huya/11352897
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",悬疑
+https://live.metshop.top/huya/11342395
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",灾难
+https://live.metshop.top/huya/11602075
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouBan Top 250
+https://live.metshop.top/douyu/8770422
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 4332
+https://live.metshop.top/douyu/4332
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 20415（可乐电影
+https://live.metshop.top/douyu/20415
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 263824（吃奶滴虫
+https://live.metshop.top/douyu/263824
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 508118
+https://live.metshop.top/douyu/508118
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 2793084
+https://live.metshop.top/douyu/2793084
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 贝爷影厅
+https://live.metshop.top/douyu/36337
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 冰冰小剧场
+https://live.metshop.top/douyu/74374
+
+#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",DouYu 邵氏影院
+https://live.metshop.top/douyu/4246519
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_01
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_02
+http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_03
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_04
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_05
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_06
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_07
+http://huanqiuzhibo.cn/manifest/douyu.php?id=925724
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_08
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_09
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_10
+http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_11
+http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_12
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_13
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_14
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_15
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_16
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_17
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_18
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_19
+http://117.148.179.160/PLTV/88888888/224/3221231564/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_20
+http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_21
+http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_22
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_23
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_24
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_25
+http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_26
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_27
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_28
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_29
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_30
+http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_31
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_32
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_33
+http://epg.112114.xyz/douyu/434971
+
+#EXTINF:-1 tvg-id= tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="DOUYU_21 Cineplex",MOVIES_DOUYU_34
+http://epg.112114.xyz/douyu/315457
+
+
+
 <=============== Kids Channels =====================>
 
 
@@ -2172,7 +2364,11 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1  group-title="Kids" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
+
+
 <=================== HBO ===================>
+
+
 
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO",HBO(play)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -2467,7 +2663,11 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 ##KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
 ##https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
 
+
+
 <=================== TVRI DAERAH =============================>
+
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="TVRI Daerah",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
@@ -2565,6 +2765,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 <=================== Australia ===================>
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AU: SBS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/da082a35d86981edc3c171e4a4756bf5.png" group-title="Australia",AU: SBS
