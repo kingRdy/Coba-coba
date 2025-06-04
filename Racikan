@@ -396,33 +396,63 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
 
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNmv__U_qjSfq669cdeEkRXDBwLAmQamTfQ&s", Badminton Live Event
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNmv__U_qjSfq669cdeEkRXDBwLAmQamTfQ&s", Live Event 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
 https://hotlivezz179026907.akainu.xyz/-TBXU3hlSIcXpy2cVbyD8Q/Fv2lucGIbhPi2caWYvF5Lg/1747493404358/live/may6/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNmv__U_qjSfq669cdeEkRXDBwLAmQamTfQ&s", Live Event 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
 https://live-xlvb.nsnd.live/UDfkDjPFDXS98TEQNl7KEA/ad962176acd070100f306c790419005d/1747493404/live/_definst_/stream_1_1bda7@myHD/chunklist.m3u8
 
-
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China
+#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 1
 #EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2027453201_hd.m3u8
+
+#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 2
+#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2027452701_hd.m3u8
+
+#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 3
+#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2027453301_hd.m3u8
 
-
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam
+#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/bWFY15vKyFS0imUCk_ls1Q/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may24/chunklist.m3u8
-#https://hotlivezz179026907.akainu.xyz/iFXrh3TA7PKJEH_de2Y0Rw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may241/chunklist.m3u8
-#https://hotlivezz179026907.akainu.xyz/wYkjuRNCrJitPTdVS7Nxaw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may26/chunklist.m3u8
 
+#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/iFXrh3TA7PKJEH_de2Y0Rw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may241/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/wYkjuRNCrJitPTdVS7Nxaw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may26/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s",  Badminton Open 2025
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/1pdrj6pQ5GCb4DbwopttUw/Fv2lucGIbhPi2caWYvF5Lg/1748344808511/live/may26/chunklist.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkjte.png", 10:30 WIB France Women vs Turkey Women 
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -436,13 +466,12 @@ https://hotlivezz179026907.akainu.xyz/QsoTpZGnoPYSupfz5GsvCA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/3910949843577061_AiHD.m3u8?txSecret=75ad3651b64b3e8d8180173183c572ea&txTime=68365200
-https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950044897061_AiHD.m3u8?txSecret=722c008a24dd8236f68b230ac89f41e8&txTime=68365200
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s", KFF Singapore Badminton Open 2025
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/1pdrj6pQ5GCb4DbwopttUw/Fv2lucGIbhPi2caWYvF5Lg/1748344808511/live/may26/chunklist.m3u8
+https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950044897061_AiHD.m3u8?txSecret=722c008a24dd8236f68b230ac89f41e8&txTime=68365200
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="Live Event", BRI LIGA 1
