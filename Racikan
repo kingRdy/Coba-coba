@@ -396,6 +396,29 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/ZYWfbS1k/images-2.jpg" group-title="Live Event" , Badminton Court 1
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+http://203.205.137.202/play.cbalive.weibisai.com/live/IO2025/3915975529972061_AiHD.m3u8?txSecret=6b3e188e3c61378e948977731c3e2e9c&txTime=6840DE00
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/ZYWfbS1k/images-2.jpg" group-title="Live Event" , Badminton Court 2
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+http://203.205.137.202/play.cbalive.weibisai.com/live/IO2025/3915975706139061_AiHD.m3u8?txSecret=a0491bca408bd65e3fc02c9d429bda3a&txTime=6840DE00
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/ZYWfbS1k/images-2.jpg" group-title="Live Event" , Badminton Court 3
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/2027453301.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/xdyyzyWr/images-2.jpg" group-title="Live Event" , vnl live
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=1a3b4b940535c65afdebaf1d2a2445fe&wsABSTime=1749054890&wsSession=6339fa55ae0cedb8e17c9b14-174901169371934&wsIPSercert=a06d83423e5ce13fa3c7f7df3406480d&wsiphost=local&wsBindIP=1
+
+
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNmv__U_qjSfq669cdeEkRXDBwLAmQamTfQ&s", Live Event 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
