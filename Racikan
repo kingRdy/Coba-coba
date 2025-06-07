@@ -435,41 +435,54 @@ https://hotlivezz179026907.akainu.xyz/-TBXU3hlSIcXpy2cVbyD8Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-reconnect=true
 https://live-xlvb.nsnd.live/UDfkDjPFDXS98TEQNl7KEA/ad962176acd070100f306c790419005d/1747493404/live/_definst_/stream_1_1bda7@myHD/chunklist.m3u8
 
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 1
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 1
 #EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2027453201_hd.m3u8
 
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 2
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 2
 #EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2027452701_hd.m3u8
 
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 3
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event China 3
 #EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
 #EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2027453301_hd.m3u8
 
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 1
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/1Z176kosagQxlV22-WK63g/Fv2lucGIbhPi2caWYvF5Lg/1749300602645/live/may24/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/bWFY15vKyFS0imUCk_ls1Q/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may24/chunklist.m3u8
 
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 2
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 2
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/iFXrh3TA7PKJEH_de2Y0Rw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may241/chunklist.m3u8
 
-#EXTINF:-1 group-title="Live Event"" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 3
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event S Vietnam 3
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hotlivezz179026907.akainu.xyz/wYkjuRNCrJitPTdVS7Nxaw/Fv2lucGIbhPi2caWYvF5Lg/1749028201664/live/may26/chunklist.m3u8
+
+#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://iili.io/FJbkhN9.png", Badminton Live Event Server Malaysia
+#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://v4-d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pullhw.zhaoyangyang.cn/live/8798950_lud.m3u8?edge_slice=true&user_session_id=12c5a05c7b26c3a8b17b544cd0055ccc&sub_m3u8=true&auth_info=X6Zc4684eMk8uxbiExaAaHpkoep%2BV%2FjDGuKCqe7RioSmDtmGwsDM3XGl93ihqpLV.5053744d6b4451446744743856556564
+https://0353d58cfb9630e6366faaa8af6dad47.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2027507701_shd.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7OLPjST0_pQqnBfSpnZ6V1KeBoDLDxz3vw&s",  Badminton Open 2025
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -543,6 +556,13 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="Sports", Sportstars V+ FHD Auto
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="Sports",Sportstars V+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -551,7 +571,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=112
 https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="Sports", SportStars 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="Sports", SportStars
 https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
 
 #EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Sports",Sportstars 2 V+
