@@ -2929,3 +2929,36 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/301385
 
 #EXTINF:-1 tvg-id="" tvg-name="AU: ABC TV VIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",AU: ABC TV VIC
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/301386
+
+
+
+<=======================  =====================>
+
+
+
+#EXTINF:-1 group-title="🎬MOVIE CHANNEL" tvg-logo="https://i.imgur.com/t9b3GjR.jpg",ATV-INDI
+https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbvy5XO.jpg" group-title="🎬MOVIE CHANNEL",MAXSTREAM INDI
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MaxStream.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3qV5jV.jpg" group-title="🎬MOVIE CHANNEL",EVENT TIMNAS-DT4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1
+
+#EXTINF:-1 group-title="🎬MOVIE CHANNEL" tvg-logo="https://i.imgur.com/EjKmAS2.jpg",BADMINTON COURT 1
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://fhlsport121.fis39g1.xyz/token-LEYukrPBLfKG5WcuwvY6ymqGlJvT0CDjPnP%2BwqlOEGb14eLPHUFdDowspRVLXkRJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/53qo2s55nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600303.m3u8
+  
+#EXTINF:-1 group-title="🎬MOVIE CHANNEL" tvg-logo="https://i.imgur.com/EjKmAS2.jpg",BADMINTON COURT 2
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://fhlsport121.fis39g1.xyz/token-dxQvyLPFevOGvzEvkfY6nD7QlJrUhivjbSb%2BxKEcRmSj4LOdHUFdDowspRRKVUVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/777s6s8pnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600306.m3u8
