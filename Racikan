@@ -621,11 +621,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 https://fhlsport121.fjs40b8.xyz/token-d09yn7GSL%2F6GuzQvkfY6nz7VlJqBjS7jPyytx%2FJGFzj14bafHUFdDoMpqh1MVU1JBCeIxTNhkA%3D%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4251547.m3u8?txSecret=6cf044ddcb09940b3cd3bcd3fd88bb58&txTime=68484631
-#https://bit.ly/LiveEventDonzTelevision
-
-#EXTINF:-1 tvg-id="id" tvg-logo="https://i.imgur.com/NykuEx8.jpg" group-title="Live Event 2", Sportstars 2 FHD Auto 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8  
+#https://bit.ly/LiveEventDonzTelevision 
   
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yxTvIy.jpg" group-title="📽&#65039;LIVE EVENT📽&#65039;", LIVE CHANNEL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -881,6 +877,10 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-id="id" tvg-logo="https://i.imgur.com/NykuEx8.jpg" group-title="Sports", Sportstars 2 FHD Auto 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png" group-title="Sports", SportStars 2
 https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
