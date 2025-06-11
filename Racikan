@@ -2342,6 +2342,7 @@ http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/306494
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/2wGlAgB.jpg" group-title="Premium Movies",ONE PLUS ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
