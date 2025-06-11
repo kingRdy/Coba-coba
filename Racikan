@@ -560,27 +560,27 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCjgjkpmew7fRCcGeGUEFYxg
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCjgjkpmew7fRCcGeGUEFYxg
 #UCqmld-BIYME2i_ooRTo1EOg
 
 #EXTINF:-1 group-title="Live Event 2" tvg-logo="https://i.imgur.com/eTFkLGh.jpg",VALORANT STREAM&#8317;ˢᵉʳᵛᵉʳ &#178;&#8318;
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCgulK4VnLT_n3ys1S3Z1awQ
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCgulK4VnLT_n3ys1S3Z1awQ
   
 #EXTINF:-1 group-title="Live Event 2" tvg-logo="https://i.imgur.com/PsE0FVh.jpg",ROBLOX STREAM&#8317;ˢᵉʳᵛᵉʳ &#179;&#8318;
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCAg6aehogJOmW6AORABxmKw
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCAg6aehogJOmW6AORABxmKw
 #UCkB_AwGXxPAKdahxGHpeC4Q
   
 #EXTINF:-1 group-title="Live Event 2" tvg-logo="https://i.imgur.com/uTnbdXJ.jpg",ROCKSTAR GAMES
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCYFhAnwX3EIU8rQrEkSUzgw
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCYFhAnwX3EIU8rQrEkSUzgw
 #UCjLdcql-zKjeviGljM1RMHA
   
 #EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://i.imgur.com/V3ZPEVo.jpg" group-title="Live Event 2", BRI LIGA 1&#8317;ˢᵉʳᵛᵉʳ &#185;&#8318;
@@ -588,7 +588,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.3.10) Android
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#http://xtv.ooo:8080/live/387546/200900/350972.ts
+http://xtv.ooo:8080/live/387546/200900/350972.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
@@ -600,19 +600,19 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#http://viprteaapi.top:8080/VIP015691743617904377/131239775fed/34327
+http://viprteaapi.top:8080/VIP015691743617904377/131239775fed/34327
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#ttp://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts 
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts 
 
   
 <!-- Bawaan BRI LIGA 1-DT2 : #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd -->
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd -->
   
 <!-- Bawaan BRI LIGA 1-DT2 : 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -626,7 +626,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
 #EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#https://fhlsport121.fis39g1.xyz/token-LEQtzbfBIPeG72wowvY6zDiDlMCBhy3jayX7zqUfQWWnt%2BKcHUFdDoIsqx1JWERJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/r543o589nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_603232.m3u8
+https://fhlsport121.fis39g1.xyz/token-LEQtzbfBIPeG72wowvY6zDiDlMCBhy3jayX7zqUfQWWnt%2BKcHUFdDoIsqx1JWERJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/r543o589nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_603232.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://zozotv.xyz:443/live/Hadi9399/abc12345/45.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
