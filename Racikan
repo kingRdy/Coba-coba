@@ -3586,11 +3586,11 @@ https://hotlivezz179026907.akainu.xyz/4AO1Yn8D4JwNcdU-191-5w/Fv2lucGIbhPi2caWYvF
 
 
 #EXTINF:0 tvg-id=&quot;id&quot; tvg-logo=&quot;https://i.imgur.com/NykuEx8.jpg&quot; group-title="TEST", LIVE CHANNEL 1
-https://bit.ly/LiveEventDonzTelevision
+#https://bit.ly/LiveEventDonzTelevision
 #EXTVLCOPT:http-origin=https://play.926003.tv
 #EXTVLCOPT:http-referrer=https://play.926003.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#https://pl10.chinefore.com/live/c4e94a30e4e35beb.m3u8?txSecret=2b753f4bb54e402d5a3070c90f2fb6c4&amp;txTime=684845A1
+https://pl10.chinefore.com/live/c4e94a30e4e35beb.m3u8?txSecret=2b753f4bb54e402d5a3070c90f2fb6c4&amp;txTime=684845A1
 
 #EXTINF:0 tvg-id=&quot;id&quot; tvg-logo=&quot;https://i.imgur.com/NykuEx8.jpg&quot; group-title="TEST", LIVE CHANNEL 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
