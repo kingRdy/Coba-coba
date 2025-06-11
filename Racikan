@@ -681,17 +681,41 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="Sports",SPOTV PRIME 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="Sports",SPOTV PRIME 1_KR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="Sports",SPOTV PRIME 2
+#EXTINF:-1 group-title="Sports" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/zKtVyjL.jpg",SPOTV PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
+#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
+  
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="Sports",SPOTV PRIME 2_KR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU",SPOTV PRIME+
+#EXTINF:-1 group-title="Sports" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/NVepP8I.jpg",SPOTV PRIME 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/e096a896-0190-48ff-ae73-76c7a7aef25a/0.m3u8
+#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
+  
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU",SPOTV PRIME+_KR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/l3J71cD.jpg",SPOTV PRIME PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46726.ts
+#https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/cb563d167b6c678a9dd43878d7f862ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bb5e20067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24aa0fce45510de6ba4ac1f4cc62d58e68314c9c94dead4d446cf458f20f91598c1a18e85188897ab5efa08ec200c5636429e857781cc2fc6b0f44f3693652a471259aa9083f15c28dc2c2938fffbdbad179c79afd97fee0a54bf099c3dec5aec40861afeb94dfad0d1b3414938aaca5e6d18aee4ad8f895859d640f4adfadf727095b6204e1dba07b9325956fa91d8048bd10185a2318cb668110acffb36f331768795d2a46ede4ce3c9f09733475d6a0570e937c0bb5eabe259e5cab477004f4445d7f63d065fdd2c56464e88845bc65168d1174a87ad6c11e31a727fe973cd1b2f6dda35261cb76f91f04da1131a0720ab415b2196150ac057bace8791892728bcdf8868fe64eea71ed3cce0c80733740da9fb20534403289ebe26451c70cd50fc888ac0790d12e3fec9be91036347125e122d9bf2eb75ac8bc20214028e0675373a4341d64cfd41eb2d654c6ec517d8a9495380052a22afe71c5548639bcdfed0d4818414fb2f9d9fbd142039506fb873362768d2a48416a86b1c30290bf2620e249c095e50e59ccd97fbd13eb4fc6ec8603a0c02259196aec4f3159db9ca7a08a777b53043abf24ef881b5/88/640x360_1561904/index.m3u8
+#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+
+#EXTINF:-1 group-title="Sports" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/l3J71cD.jpg",SPOTV PRIME PLUS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/cb563d167b6c678a9dd43878d7f862ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bb5e20067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24aa0fce45510de6ba4ac1f4cc62d58e68314c9c94dead4d446cf458f20f91598c1a18e85188897ab5efa08ec200c5636429e857781cc2fc6b0f44f3693652a471259aa9083f15c28dc2c2938fffbdbad179c79afd97fee0a54bf099c3dec5aec40861afeb94dfad0d1b3414938aaca5e6d18aee4ad8f895859d640f4adfadf727095b6204e1dba07b9325956fa91d8048bd10185a2318cb668110acffb36f331768795d2a46ede4ce3c9f09733475d6a0570e937c0bb5eabe259e5cab477004f4445d7f63d065fdd2c56464e88845bc65168d1174a87ad6c11e31a727fe973cd1b2f6dda35261cb76f91f04da1131a0720ab415b2196150ac057bace8791892728bcdf8868fe64eea71ed3cce0c80733740da9fb20534403289ebe26451c70cd50fc888ac0790d12e3fec9be91036347125e122d9bf2eb75ac8bc20214028e0675373a4341d64cfd41eb2d654c6ec517d8a9495380052a22afe71c5548639bcdfed0d4818414fb2f9d9fbd142039506fb873362768d2a48416a86b1c30290bf2620e249c095e50e59ccd97fbd13eb4fc6ec8603a0c02259196aec4f3159db9ca7a08a777b53043abf24ef881b5/88/640x360_1561904/index.m3u8
+#http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46726.ts
+#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://enz.gdplayertv.to/assets/img/logo/fox-sports-1.png" group-title="Sports",Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1133,30 +1157,6 @@ http://bmudnfh.megahdtv.xyz:900/0032829421/5272592091/9052
 http://bmudnfh.megahdtv.xyz:900/0032829421/5272592091/9051
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="ShareExt@Relax",SPOTV PRIME_KR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU",SPOTV PRIME+_KR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
-
-#EXTINF:-1 group-title="&#11088;SPORTS CHANNEL" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/zKtVyjL.jpg",SPOTV PRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
-#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
-  
-#EXTINF:-1 group-title="&#11088;SPORTS CHANNEL" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/NVepP8I.jpg",SPOTV PRIME 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/e096a896-0190-48ff-ae73-76c7a7aef25a/0.m3u8
-#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
-  
-#EXTINF:-1 group-title="&#11088;SPORTS CHANNEL" tvg-id="spotvprime.kr" tvg-logo="https://i.imgur.com/l3J71cD.jpg",SPOTV PRIME PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46726.ts
-#https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/cb563d167b6c678a9dd43878d7f862ffa65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bb5e20067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b24aa0fce45510de6ba4ac1f4cc62d58e68314c9c94dead4d446cf458f20f91598c1a18e85188897ab5efa08ec200c5636429e857781cc2fc6b0f44f3693652a471259aa9083f15c28dc2c2938fffbdbad179c79afd97fee0a54bf099c3dec5aec40861afeb94dfad0d1b3414938aaca5e6d18aee4ad8f895859d640f4adfadf727095b6204e1dba07b9325956fa91d8048bd10185a2318cb668110acffb36f331768795d2a46ede4ce3c9f09733475d6a0570e937c0bb5eabe259e5cab477004f4445d7f63d065fdd2c56464e88845bc65168d1174a87ad6c11e31a727fe973cd1b2f6dda35261cb76f91f04da1131a0720ab415b2196150ac057bace8791892728bcdf8868fe64eea71ed3cce0c80733740da9fb20534403289ebe26451c70cd50fc888ac0790d12e3fec9be91036347125e122d9bf2eb75ac8bc20214028e0675373a4341d64cfd41eb2d654c6ec517d8a9495380052a22afe71c5548639bcdfed0d4818414fb2f9d9fbd142039506fb873362768d2a48416a86b1c30290bf2620e249c095e50e59ccd97fbd13eb4fc6ec8603a0c02259196aec4f3159db9ca7a08a777b53043abf24ef881b5/88/640x360_1561904/index.m3u8
-#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
 
 
 
