@@ -1370,6 +1370,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
+#EXTINF:-1 group-title="🇲🇾MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/Z1VOwze.jpg",TV3 HD
+http://iptv.kilas7.com:80/kaukia/asdfrewq/26
+
 #EXTINF:-1 tvg-id="108" group-title="Malaysia" tvg-url="https://bit.ly/UnifyEpg" tvg-logo="https://e7.pngegg.com/pngimages/130/418/png-clipart-8tv-malaysia-media-prima-television-tv3-bulan-sabit-purple-television.png",8TV Malaysia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
@@ -1421,6 +1424,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="Malaysia", ASTRO SHOWCASE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjCKyPr.jpg" group-title="🇲🇾MALAYSIA CHANNEL", ASTRO AOD
+http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/247413
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="Malaysia", ASTRO HUA HEE DAI
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
@@ -3232,9 +3238,6 @@ https://hotlivezz179026907.akainu.xyz/ruEu1TlYhEFOR-NZT-Is2g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-reconnect=true
 https://hotlivezz179026907.akainu.xyz/4AO1Yn8D4JwNcdU-191-5w/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may27/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EjCKyPr.jpg" group-title="🇲🇾MALAYSIA CHANNEL", ASTRO AOD
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/247413
 
 #EXTINF:-1 group-title="🇲🇾MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/Z1VOwze.jpg",TV3 HD
 http://iptv.kilas7.com:80/kaukia/asdfrewq/26
