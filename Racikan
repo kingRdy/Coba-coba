@@ -1370,7 +1370,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
-#EXTINF:-1 group-title="🇲🇾MALAYSIA CHANNEL" tvg-logo="https://i.imgur.com/Z1VOwze.jpg",TV3 HD
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.imgur.com/Z1VOwze.jpg",TV3 HD
 http://iptv.kilas7.com:80/kaukia/asdfrewq/26
 
 #EXTINF:-1 tvg-id="108" group-title="Malaysia" tvg-url="https://bit.ly/UnifyEpg" tvg-logo="https://e7.pngegg.com/pngimages/130/418/png-clipart-8tv-malaysia-media-prima-television-tv3-bulan-sabit-purple-television.png",8TV Malaysia
@@ -1425,7 +1425,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="Malaysia", ASTRO SHOWCASE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EjCKyPr.jpg" group-title="🇲🇾MALAYSIA CHANNEL", ASTRO AOD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjCKyPr.jpg" group-title="Malaysia", ASTRO AOD
 http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/247413
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="Malaysia", ASTRO HUA HEE DAI
