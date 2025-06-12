@@ -2944,7 +2944,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd|Referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids" tvg-id="Nick Jr. HD - [Channel 472].id" , Nickelodeon Junior
+#EXTINF:-1 tvg-url=&quot;https://bit.ly/IndonesiaEpg&quot; tvg-logo=&quot;https://i.imgur.com/Wxo0lda.jpg&quot; group-title="Kids" tvg-id=&quot;NickJr.id&quot; , NICK JR
 https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
