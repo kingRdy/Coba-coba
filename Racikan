@@ -2910,7 +2910,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-#EXTINF:-1 tvg-logo=&quot;https://i.imgur.com/5pkBoG8.jpg&quot; group-title="Kids", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pkBoG8.jpg" group-title="Kids", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2972,14 +2972,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkeystro supersporta
-#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
-#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/995/49995-SNAPSHOT-l.png" group-title="Kids", Cbeebies
-#https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/KaVMaeJ.jpg", BABY SHARK TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&amp;appName=web&amp;appVersion=unknown&amp;appStoreUrl=&amp;architecture=&amp;buildVersion=&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=949fff44-b258-11ee-9039-67540c86de73&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&amp;userId=&amp;serverSideAds=true
 
@@ -3030,13 +3022,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  group-title="Kids" tvg-id=&quot;ANIPLUSHD.sg&quot; tvg-url=&quot;https://www.bevy.be/bevyfiles/singaporepremium.xml&quot; tvg-logo=&quot;https://i.imgur.com/TqgAlzC.jpg&quot;, ANIPLUS
+#EXTINF:-1  group-title="Kids" tvg-id="ANIPLUSHD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/TqgAlzC.jpg", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&amp;userid=lite&amp;chname=ANIPLUS
 
-#EXTINF:-1 tvg-logo=&quot;https://i.imgur.com/QmNpdCU.jpg&quot; group-title="Kids", BIZNET KIDS ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmNpdCU.jpg" group-title="Kids", BIZNET KIDS ᴴᴰ
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&amp;bizkeyliveendtime=0&amp;bizkeyliveCustomParameter=myParameter&amp;bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
-#EXTINF:-1 tvg-logo=&quot;https://i.imgur.com/uh77WXY.jpg&quot; group-title="Kids", DUNIA ANAK INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uh77WXY.jpg" group-title="Kids", DUNIA ANAK INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-DuniaAnak.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -3048,17 +3040,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
-#EXTINF:-1 tvg-id=&quot;Moonbug&quot; tvg-url=&quot;https://bit.ly/UnifyEpg&quot; group-title="Kids" tvg-logo=&quot;https://i.imgur.com/Q5G9lpP.jpg&quot;, MOONBUG
+#EXTINF:-1 tvg-id="Moonbug" tvg-url="https://bit.ly/UnifyEpg" group-title="Kids" tvg-logo="https://i.imgur.com/Q5G9lpP.jpg", MOONBUG
 https://av-ch-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
 
-#EXTINF:-1 group-title="Kids" tvg-logo=&quot;https://i.imgur.com/CU83pY3.jpg&quot;, EBS KIDS
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/CU83pY3.jpg", EBS KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id=&quot;46&quot; group-title="Kids"  tvg-logo=&quot;https://i.imgur.com/hzphLqn.jpg&quot;, SPACETOON ᴴᴰ
+#EXTINF:-1 tvg-id="46" group-title="Kids"  tvg-logo="https://i.imgur.com/hzphLqn.jpg", SPACETOON ᴴᴰ
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo=&quot;https://i.imgur.com/qzKqGyI.jpg&quot;,DA VINCI ASIA INDI
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/qzKqGyI.jpg", DA VINCI ASIA INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Davinci.m3u8
@@ -3066,7 +3058,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd 
 
-#EXTINF:-1 tvg-id=&quot;19&quot; tvg-logo=&quot;https://i.imgur.com/pXg1fkD.jpg&quot; group-title="Kids", CINEMACHI KIDS
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/pXg1fkD.jpg" group-title="Kids", CINEMACHI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
