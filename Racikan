@@ -2962,12 +2962,6 @@ https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd|Referer=h
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/994/49994-SNAPSHOT-l.png" group-title="Kids", Kids TV
-#https://av-ch-cdn.mncnow.id/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
-
 #EXTINF:-1 tvg-id=&quot;KidsTV.id&quot; tvg-url=&quot;https://bit.ly/IndonesiaEpg&quot; tvg-logo=&quot;https://i.imgur.com/mXPjQUe.jpg&quot; group-title="Kids", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
