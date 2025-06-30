@@ -2226,7 +2226,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i.imgur.com/t9b3GjR.jpg",ATV-INDI
 https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd 
 
-#EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO",HBO
+#EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="Premium Movies", HBO (T)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
